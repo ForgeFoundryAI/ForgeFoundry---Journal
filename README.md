@@ -54,4 +54,4 @@ This repository will document the growth of the tech stack as we move from no-co
 
 Hitting a home run on your first at-bat in the major leagues is one of the rarest achievements in baseball — only **138 players** in MLB history have ever done it.
 
-My goal with ForgeFoundry is ambitious in the same spirit: to build something meaningful on our first at-bat, while openly documenting the entire process. Whether this becomes a grand slam or a solid base hit, the journey itself will showcase the skills, persistence, and learning that come from treating AI as a true collaborator.
+My goal with ForgeFoundry is ambitious in the same spirit: to build something meaningful on our first at-bat, while openly documenting the entire process. Whether this becomes a grand slam or a solid base hit, the journey itself will showcase the skills, persistence, and learning that come from treating AI as a true collaborator not a replacement.
