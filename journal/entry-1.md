@@ -4,7 +4,7 @@
 
 This marks the official start of documenting my journey building ForgeFoundry.
 
-I have no formal training as a programmer or AI engineer. I’ve simply been around computers my whole life and decided to take a real shot at building something meaningful. My main motivation is clear: to create a product that could eventually provide for my family of 6 in California.
+I have no formal training as a programmer or AI engineer. I’ve simply been around computers my whole life and decided to take a real shot at building something meaningful. My main motivation is clear: Use AI as an assistant rather than a replacement to develop a product/brand that becomes a financial success, and also to acquire a position with a company that feels my skills and value align with theirs 
 
 From the very first conversations with Grok, the idea quickly took shape:
 - Public brand: **ForgeFoundry**
