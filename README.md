@@ -27,10 +27,10 @@ At its core is **Crucible** — the hidden "rocket engine" that powers discovery
 
 ## Journey Logs
 
-- [Entry #1](./journal/entry-1.md)
-- [Entry #2](./journal/entry-2.md)
-- [Entry #3](./journal/entry-3.md)
-- [Entry #4](./journal/entry-4.md)
+- [Entry #1 - The Beginning](./journal/entry-1.md)
+- [Entry #2 - Early Architecture](./journal/entry-2.md)
+- [Entry #3 - Architectural Refinements](./journal/entry-3.md)
+- [Entry #4 - Refining the Engine](./journal/entry-4.md)
 
 ---
 
