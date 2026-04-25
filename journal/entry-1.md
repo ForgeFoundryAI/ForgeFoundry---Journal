@@ -2,15 +2,17 @@
 **Date:** April 20, 2026  
 **Title:** The Beginning
 
-This is the official start of documenting my journey building ForgeFoundry.
+This marks the official start of documenting my journey building ForgeFoundry.
 
-I have no formal training as a programmer. I’ve just been around computers my whole life. My motivation is strong: to create something that can provide for my family of 6 in California.
+I have no formal training as a programmer or AI engineer. I’ve simply been around computers my whole life and decided to take a real shot at building something meaningful. My main motivation is clear: to create a product that could eventually provide for my family of 6 in California.
 
-From the first conversations, we shaped:
-- Brand: ForgeFoundry
-- Tiers: Spark → Forge → Foundry
-- Hidden engine: Crucible
+From the very first conversations with Grok, the idea quickly took shape:
+- Public brand: **ForgeFoundry**
+- Tier progression: Spark (Free) → Forge → Foundry
+- Hidden engine: **Crucible** — an autonomous system that scans communities and turns real pains into actionable ideas
 
-This journey is about learning in public and treating AI as a true collaborator.
+We also began exploring the blacksmith/foundry metaphor and later adopted the rocket-engine concept for Crucible, which feels both ambitious and fitting.
 
-Next steps: Set up legal (DBA), tools, and start building.
+This journey is about learning in public and treating AI as a genuine collaborator rather than a crutch. Whether it ultimately succeeds financially or not, the process itself is already teaching me a tremendous amount.
+
+Next steps include legal setup (DBA filing), tool accounts, and beginning to implement the core engine.
