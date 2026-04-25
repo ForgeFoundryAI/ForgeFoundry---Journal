@@ -31,7 +31,9 @@ At its core is **Crucible** — the hidden "rocket engine" that powers discovery
 - [Entry #2 - Early Architecture](./journal/entry-2.md)
 - [Entry #3 - Architectural Refinements](./journal/entry-3.md)
 - [Entry #4 - Refining the Engine](./journal/entry-4.md)
+- [Entry #5 - Building the Public Record](./journal/entry-5.md)
 
+*(New entries added regularly)*
 ---
 
 ## Tech Stack (Evolving)
