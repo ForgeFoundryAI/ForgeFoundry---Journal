@@ -1,14 +1,15 @@
 # Journey Log - Entry #3
-**Date:** April 20, 2026  
+**Date:** April 22, 2026  
 **Title:** Architectural Refinements & Clarifying the Vision
 
-We made important refinements to the core architecture today.
+We made several meaningful refinements to the architecture today.
 
-- **Forge Tier** is now the main pay-point where most evolution and feedback work happens.
-- **Foundry Tier** is lighter and focused on production (clean code + Debug & Test Sandbox).
-- **Crucible v9** was updated with clearer layer separation and the rocket-engine metaphor.
-- **Evolution Layer** now includes a practical Feedback Assistant (ready-to-post messages + step-by-step guide).
+- Clearly separated responsibilities: Forge as the main evolution/pay-point tier, Foundry as the lighter production/completion layer.
+- Enhanced the Evolution Layer with a practical Feedback Assistant (diagnostic questions + ready-to-post messages + step-by-step posting guide).
+- Updated Crucible to v9 with better layer separation and reinforced the rocket-engine metaphor.
 
-We also clarified the long-term vision: "Build the machine while using the machine" — every improvement we make while developing products like Temper and BidGuard gets folded back into Crucible permanently.
+We also discussed financial projections and the possibility of shaping ForgeFoundry for both sustainable income and potential acquisition as a secondary outcome.
 
-This feels like a meaningful step forward. The system is becoming more intentional and scalable.
+The vision is becoming clearer: this is not about copying the same process repeatedly, but about continuously improving the machine itself through real use. Every bolt-on we add while building products like Temper and BidGuard makes Crucible better for everyone.
+
+I’m starting to feel the system take real shape.
